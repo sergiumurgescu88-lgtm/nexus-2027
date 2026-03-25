@@ -1,0 +1,9 @@
+{
+  "name": "NEXUS 2027: Business Operations Platform",
+  "description": "A high-fidelity operational hub for 2027 businesses, integrating real-time logistics, climate resilience, autonomous workforce coordination, and AI-driven intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
